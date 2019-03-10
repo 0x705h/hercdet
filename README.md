@@ -2,7 +2,7 @@
 
 Hercules video adapter card detection.
 
-While debugging a particular timming problem in PCEm latest version
+While debugging a particular timing problem in PCEm latest version
 (10.03.2019) on the emulation of hercules video adapters, I came up with
 this tiny msdos 16-bit program which makes my life easier to test the timings emulated
 in PCEm instead of using the games of that era for detection. 

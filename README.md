@@ -1,0 +1,2 @@
+# hercdet
+Hercules monitor detection 

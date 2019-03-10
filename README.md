@@ -4,9 +4,10 @@ Hercules video adapter card detection.
 
 While debugging a particular timming problem in PCEm latest version
 (10.03.2019) on the emulation of hercules video adapters, I came up with
-this tiny msdos 16-bit which makes my life easier to test the detection
-routines done by games in that era, instead of executing games which sometimes
-didn't do a good job exiting if detection of video cards failed and eventually crashing the machine. 
+this tiny msdos 16-bit which makes my life easier to test the timings emulated
+in PCEm instead of using detection routines of games in that era. 
+Instead of executing games which sometimes didn't do a good job exiting if detection of video cards fails 
+and eventually crashing the machine. 
 To avoid the crashes, this should be enough to test it.
 
 ## XT, AT and PS/2 I/O port addresses for Hercules
